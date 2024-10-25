@@ -1,0 +1,7 @@
+{
+  "name": "ionic-pfand",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
